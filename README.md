@@ -17,4 +17,3 @@ Tetris game written in JavaFX for my Computer Graphics Assignment
   * Navigate to src and open the Tetris.java file
   * Hit the green play icon to start the game
   
-# Starting the game using jre
