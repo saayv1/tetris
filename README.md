@@ -1,6 +1,15 @@
 # tetris
 Tetris game written in JavaFX for my Computer Graphics Assignment
 
+# screenshots
+
+When the game starts
+![alt text](  tetris/screenshots/tetris screenshot.png )
+
+
+With the board zoomed in
+![alt text]( tetris/screenshots/large size.png )
+
 # Software Requirements
 
 * Have Eclipse Oxygen Version 4.7.2 or later installed on your Windows, Linux or Mac machine
