@@ -1,5 +1,5 @@
 # tetris
-Tetris game written in JavaFX for my Computer Graphics Assignment
+Tetris game written in JavaFX for my Computer Graphics Assignment CS 6366
 
 # screenshots
 
