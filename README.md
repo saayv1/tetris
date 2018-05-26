@@ -23,3 +23,10 @@ When the game starts
   * Navigate to src and open the Tetris.java file
   * Hit the green play icon to start the game
   
+# Controls
+
+* left mouse button to move the brick left
+* right mouse button to move the brick right
+* cursor on the board indicates pause
+* cursor on the moving piece changes the piece
+
